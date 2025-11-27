@@ -8,12 +8,40 @@ This is achieved by prescribing only one core model component: the **product-pro
 
 In the analogy with the human passport, this is like the name and date of birth - immutable information to identify the user, or even the fingerprints in the RFID chip of the passport (maybe also the picture, though people and pictures need to be updated some time).
 
+## Layered Architecture Organization
+
+To manage the complexity of modular composition, we organize the architecture into functional layers, each serving specific purposes while maintaining interoperability:
+
+### 1. Core Product Layer
+Static, foundational, always present - contains the **product-profile** as the required foundation.
+
+### 2. Dynamic Lifecycle Layer
+Models describing events, operations, and time-dependent changes throughout the product lifecycle.
+
+### 3. Operation & Use Layer
+Models describing how a product is used, maintained, and operated.
+
+### 4. Impact Assessment Layer
+Models supporting environmental, economic, and social impact calculations.
+
+### 5. Circularity & End-of-Life Layer
+Models defining circularity criteria and end-of-life pathways.
+
+### 6. Legal, Compliance & Standards Layer
+Models describing regulatory, certification, and normative requirements.
+
+### 7. Cross-Cutting Utility Layer
+Reusable components linked by reference to multiple models across layers.
+
+### 8. Technical Infrastructure Layer
+DPP-specific technical metadata relevant to data records and interoperability.
+
 ## Modular Composition
 
-All the rest is optional and composable. This bottom-up approach enables:
+This layered organization enables:
 
-- **Independent modules** that can be developed and maintained separately
-- **Cross-cutting models** that provide reusable components across different contexts
+- **Independent modules** that can be developed and maintained separately within each layer
+- **Cross-cutting models** that provide reusable components across different layers and contexts
 - **Overlapped models** allowing different representations of the same information
 - **Flexible composition** based on specific needs and requirements
 
