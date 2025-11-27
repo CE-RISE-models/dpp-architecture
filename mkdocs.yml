@@ -8,8 +8,8 @@ theme:
     name: material
     palette:
         - scheme: default
-          primary: teal
-          accent: cyan
+          primary: white
+          accent: blue
           toggle:
               icon: material/brightness-7
               name: Switch to dark mode
@@ -49,3 +49,6 @@ extra:
     copyright: |
         &copy; 2025 CE-RISE consortium. Licensed under
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>.
+
+extra_css:
+    - stylesheets/extra.css
