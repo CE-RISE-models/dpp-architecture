@@ -29,9 +29,9 @@ The following table shows the current development status of all planned models i
 
 ## Legend
 
-- **Completed**: Model is fully developed, documented, and published
-- **Under Development**: Model is actively being developed
-- **Planned**: Model is planned for future development
+* **Completed**: Model is fully developed, documented, and published
+* **Under Development**: Model is actively being developed
+* **Planned**: Model is planned for future development
 
 ## Next Steps
 

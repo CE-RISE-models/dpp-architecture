@@ -40,18 +40,18 @@ DPP-specific technical metadata relevant to data records and interoperability.
 
 This layered organization enables:
 
-- **Independent modules** that can be developed and maintained separately within each layer
-- **Cross-cutting models** that provide reusable components across different layers and contexts
-- **Overlapped models** allowing different representations of the same information
-- **Flexible composition** based on specific needs and requirements
+* **Independent modules** that can be developed and maintained separately within each layer
+* **Cross-cutting models** that provide reusable components across different layers and contexts
+* **Overlapped models** allowing different representations of the same information
+* **Flexible composition** based on specific needs and requirements
 
 ## User-Driven Profiles
 
 Users are provided the possibility to build profiles of DPP data models to create tailored data structures for:
 
-- Representing information in contexts specific to their needs
-- Storing data according to their technical and business requirements  
-- Making sense of information stored in DPPs across different systems and standards
+* Representing information in contexts specific to their needs
+* Storing data according to their technical and business requirements  
+* Making sense of information stored in DPPs across different systems and standards
 
 ## Flexibility Benefits
 
