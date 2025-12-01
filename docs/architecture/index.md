@@ -33,7 +33,8 @@ Includes only **events**, not static identifiers.
 Structured outputs produced during *diagnostic, repair, service, or automated condition-assessment operations*.  
 These are **event-bound results**, not static product information.
 
-Includes:  
+Includes:
+
 * technician service reports  
 * device self-diagnostic outputs (battery health, laptop system tests, etc.)  
 * predictive maintenance assessments  
@@ -45,6 +46,7 @@ Includes:
 Models describing how a product is used, maintained, and operated.
 
 **`usage-and-maintenance`**  
+
 * `MaintenanceRepairRelatedData`  
 * `UsageRelatedData`  
 * `UseInstructions`  
@@ -54,14 +56,16 @@ Models describing how a product is used, maintained, and operated.
 Models supporting environmental, economic, and social impact calculations.
 
 **`integrated-lca`**  
-Umbrella for environmental & social LCA.  
+Umbrella for environmental & social LCA.
+
 * `EnvironmentalImpact`  
 * impact categories, methods, inventory links  
 * `SocialImpact`  
 * Potential: **LCC** (life-cycle costing)
 
 **`see-impacts-specification`**  
-Specification supporting CE-RISE SEE module:  
+Specification supporting CE-RISE SEE module:
+
 * indicator definitions  
 * calculation metadata  
 * harmonised SEE structures
@@ -69,7 +73,8 @@ Specification supporting CE-RISE SEE module:
 ### 5. Circularity & End-of-Life Layer
 Models defining circularity criteria and EoL pathways.
 
-**`circularity-and-eol`**  
+**`circularity-and-eol`**
+
 * `DesignForCircularity`  
 * `ProductPerformanceFactors`  
 * `ProductPerformanceScores`  
@@ -81,7 +86,8 @@ Specific EoL indicators and options.
 ### 6. Legal, Compliance & Standards Layer
 Models describing regulatory, certification, and normative requirements.
 
-**`compliance-and-standards`**  
+**`compliance-and-standards`**
+
 * `ProductCommitments`  
 * `ApplicableRegulationStandards`  
 * `ProductEvidence` (DoC, certificates, CE marking)  
@@ -100,10 +106,12 @@ Specification layer for compliance and normative information needs.
 Reusable components linked by reference to multiple models.
 
 **`uncertainty-and-quality`**  
-Cross-cutting metadata for:  
+Cross-cutting metadata for:
+
 * data quality  
 * uncertainty structures  
-* provenance / lineage  
+* provenance / lineage
+
 Used by: circularity, SEE, LCA, traceability, compliance.
 
 ### 8. Technical Infrastructure Layer

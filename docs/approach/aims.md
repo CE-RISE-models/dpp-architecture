@@ -7,6 +7,7 @@ The aim of the CE-RISE DPP data model architecture is to make Digital Product Pa
 ### Proper Information Representation
 
 We aim to represent information that is:
+
 * **Complete** - capturing all necessary data for DPP functionality
 * **Formal** - following structured, standardized formats
 * **Semantically aligned** - ensuring consistent meaning across systems and contexts
@@ -14,6 +15,7 @@ We aim to represent information that is:
 ### Future-Proofing
 
 The architecture is designed to be future-proof for:
+
 * Always evolving regulations and standards
 * New data requirements and compliance needs
 * Technological advances and platform changes
@@ -21,6 +23,7 @@ The architecture is designed to be future-proof for:
 ### Enabling Interoperability
 
 We enable interoperability by:
+
 * Supporting pluggable models that can be mixed and matched
 * Allowing competing models for the same purpose without catastrophic cascading effects
 * Preventing obsolescence or incompatibility in other parts of DPPs
