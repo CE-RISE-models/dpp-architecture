@@ -6,6 +6,7 @@ The CE-RISE DPP architecture is organized into a layered modular structure, wher
 
 ### 1. Core Product Layer
 Static, foundational, always present.
+
 * **[Product Profile](product-profile.md)** - Defines the immutable identity and origin of a product
 
 ### 2. Dynamic Lifecycle Layer
