@@ -61,7 +61,8 @@ The documentation website is automatically built and deployed via Forgejo Action
 │   └── logo.png                      # CE-RISE logo
 │   └── ...                           # Rest of the documentation files
 ├── mkdocs.yml                # MkDocs configuration
-└── .forgejo/workflows/       # CI/CD pipeline
+└── .forgejo/workflows/       # CI/CD pipeline to publish documentation
+└── .github/workflows/        # CI/CD pipeline to archive releases on Zenodo
 ```
 
 ---
