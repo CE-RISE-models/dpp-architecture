@@ -8,11 +8,13 @@ This documentation is organized to guide you through our modular approach to DPP
 
 ### Approach
 Start here to understand our vision and methodology:
+
 - **[Aims & Objectives](approach/aims.md)** - Why we built this architecture and what it achieves
 - **[Our Approach](approach/principles.md)** - Bottom-up modular design with the product-profile foundation
 
 ### Architecture
 Explore the technical structure:
+
 - **[Architecture Overview](architecture/index.md)** - Visual representation and model-level structure
 - **[Profiles](architecture/profiles.md)** - How to compose models for specific use cases
 
@@ -21,6 +23,7 @@ Need details about a specific data model? Navigate through available data models
 
 ### Roadmap
 Track implementation status and upcoming model availability:
+
 - **[Implementation Plan](roadmap/implementation.md)** - Current status of model development and what's coming next
 
 ## Quick Start
