@@ -3,7 +3,7 @@ title: CE-RISE Digital Product Passport (DPP) data-model architecture
 message: >-
   2025.11 - Initial draft of models architecture and dev roadmap.
 type: software
-doi: xxx_to_be_obtained_xxx
+doi: 10.5281/zenodo.17776989
 authors:
   - given-names: Riccardo
     family-names: Boero
@@ -12,7 +12,7 @@ authors:
     affiliation: NILU
 identifiers:
   - type: doi
-    value: xxx_to_be_obtained_xxx
+    value: 10.5281/zenodo.17776989
     description: This DOI represents all software versions.
 repository-code: 'https://codeberg.org/CE-RISE_models/dpp-architecture'
 url: 'https://ce-rise-models.codeberg.page/dpp-architecture/'
