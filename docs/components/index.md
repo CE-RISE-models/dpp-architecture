@@ -6,11 +6,11 @@ The CE-RISE DPP architecture is organized into a layered modular structure, wher
 
 ### 1. Core Product Layer
 Static, foundational, always present.
-* **[Product Profile](product-profile.md)** (required) - Defines the immutable identity and origin of a product
+* **[Product Profile](product-profile.md)** - Defines the immutable identity and origin of a product
 
 ### 2. Dynamic Lifecycle Layer
 Models describing events, operations, and time-dependent changes.
-* **Traceability and Lifecycle Events** - Dynamic traceability and supply-chain events
+* **[Traceability and Lifecycle Events](traceability-and-life-cycle-events.md)** - Dynamic traceability and supply-chain events
 * **Diagnostic Results** - Structured outputs from diagnostic, repair, service, or automated condition-assessment operations
 
 ### 3. Operation & Use Layer

@@ -9,7 +9,7 @@ The following table shows the current development status of all planned models i
 | **Core Product Layer** |
 | | `product-profile` | Completed | [Product Profile](../components/product-profile.md) | Required foundation model |
 | **Dynamic Lifecycle Layer** |
-| | `traceability-and-life-cycle-events` | Planned | - | Dynamic traceability and supply-chain events |
+| | `traceability-and-life-cycle-events` | Under Development | - | Dynamic traceability and supply-chain events |
 | | `diagnostic-results` | Planned | - | Event-bound diagnostic outputs |
 | **Operation & Use Layer** |
 | | `usage-and-maintenance` | Planned | - | Usage and maintenance data and instructions |
