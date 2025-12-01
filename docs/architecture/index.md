@@ -86,8 +86,14 @@ Models describing regulatory, certification, and normative requirements.
 * `ApplicableRegulationStandards`  
 * `ProductEvidence` (DoC, certificates, CE marking)  
 * `ProcessEvidence`
+* `RegulatoryInformationSheet`  
+  * SafetyWarnings  
+  * SafeUseInstructions (legally required)  
+  * EMCComplianceStatement  
+  * ResponsiblePersonEU (name, address, contact, role)  
+  * AdditionalRegulatoryIdentifiers (market/regulation-specific secondary IDs)
 
-**`some-specification`**  
+**`conformity-requirements-specification`**  
 Specification layer for compliance and normative information needs.
 
 ### 7. Cross-Cutting Utility Layer
