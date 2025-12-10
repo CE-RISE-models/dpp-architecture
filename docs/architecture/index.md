@@ -26,8 +26,7 @@ Defines the immutable identity, origin, and basic specification of the product. 
 * Bill of materials structure
 
 ### 2. DPP Metadata
-**Models: `dpp-record-metadata`, `dpp-access-and-governance`, `dpp-record-custody`**  
-Holds DPP-level metadata needed for access, interoperability, security, and record structure.
+**Models:**  
 
 **`dpp-record-metadata`**  
 Data model defining the semantic and structural metadata of the DPP record.  
