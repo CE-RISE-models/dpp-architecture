@@ -46,13 +46,13 @@ This three-group organization enables:
 * **Overlapped models** allowing different representations of the same information
 * **Flexible composition** based on specific needs and requirements
 
-## User-Driven Profiles
+## User-Driven Model Selection
 
-Users are provided the possibility to build profiles of DPP data models to create tailored data structures for:
+Users have complete flexibility to select and combine models from the architecture based on their specific needs, without being constrained by predefined profiles. This approach allows them to:
 
-* Representing information in contexts specific to their needs
-* Storing data according to their technical and business requirements  
-* Making sense of information stored in DPPs across different systems and standards
+* Start with the required core models and add others as needed
+* Adapt their model selection over time as requirements evolve
+* Maintain interoperability while customizing for their context
 
 ## Architecture Benefits
 

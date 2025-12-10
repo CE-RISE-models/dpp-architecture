@@ -18,7 +18,7 @@ Start here to understand our vision and methodology:
 Explore the technical structure organized into three main groups:
 
 * **[Architecture Overview](architecture/index.md)** - Three-group structure: Core Layers, Value-Added Information Layers, and Cross-Cutting Utility Layers
-* **[Profiles](architecture/profiles.md)** - How to compose models for specific use cases
+* **[Profiles](architecture/profiles.md)** - Flexible model composition approach
 
 ### Components
 Need details about a specific data model? Navigate through available data models organized by architectural group and find references to more info.
