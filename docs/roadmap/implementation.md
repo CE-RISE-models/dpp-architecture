@@ -49,39 +49,6 @@ The following table shows the current development status of all planned models i
 * **Under Development**: Model is actively being developed and refined
 * **Planned**: Model is planned for future development
 
-## Development Priorities
-
-### Phase 1: Core Foundation (Completed/In Progress)
-- ✅ `product-profile` - Essential identity layer
-- ✅ `traceability-and-lifecycle-events` - Critical for supply chain tracking
-- ✅ `diagnostic-results` - Service and maintenance tracking
-- ✅ `usage-and-maintenance` - Operation support
-- 🔄 `re-indicators-specification` - Supporting circular economy goals
-
-### Phase 2: Infrastructure & Quality (Next Priority)
-- `dpp-record-metadata` - Enable DPP interpretation and interoperability
-- `dpp-access-and-governance` - Access control and governance
-- `dpp-record-custody` - Audit trail and integrity
-- `uncertainty-quantification` - Critical for data reliability
-- `data-quality-framework` - Trust and transparency
-
-### Phase 3: Impact & Compliance
-- `integrated-lca` - Environmental and social assessment
-- `product-system` - LCA modeling foundation
-- `compliance-and-standards` - Regulatory requirements
-- `conformity-requirements-specification` - Standards compliance
-
-### Phase 4: Advanced Circularity
-- `circularity-and-eol` - Complete circularity features
-
-## Timeline
-
-Development priority is given to models that:
-1. Support immediate CE-RISE project demonstrations
-2. Meet upcoming EU regulatory requirements (particularly ESPR)
-3. Enable core DPP functionality for pilot implementations
-4. Provide maximum value to early adopters
-
 ## Contributing
 
 Models under development welcome community input and feedback. Please visit the individual repository links for contribution guidelines and current development status.
