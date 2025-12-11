@@ -16,20 +16,20 @@ Foundation components that are essential for every Digital Product Passport.
 ### DPP Metadata Layer
 Models providing metadata for DPP record management and governance:
 
-* **DPP Record Metadata** *(planned)* - Semantic and structural metadata of the DPP record
+* **[DPP Record Metadata](dpp-record-metadata.md)** - Semantic and structural metadata of the DPP record
   * Ontology bindings and schema references
   * Data model versions and profiles
   * Supported representation formats
   * Validation schemas
   
-* **DPP Access and Governance** *(planned)* - Operational and access-related metadata
+* **[DPP Access and Governance](dpp-access-and-governance.md)** - Operational and access-related metadata
   * Access levels and permissions
   * Security settings
   * Data carrier specifications
   * Longevity policies
   * Interoperability configurations
   
-* **DPP Record Custody** *(planned)* - Chain of custody and governance history
+* **DPP Record Custody** - Chain of custody and governance history
   * Custody event tracking
   * Custodian identification
   * Transfer authorizations
