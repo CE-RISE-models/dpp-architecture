@@ -4,4 +4,4 @@
 
 **Generated Schemas**: [https://ce-rise-models.codeberg.page/dpp-access-and-governance/](https://ce-rise-models.codeberg.page/dpp-access-and-governance/)
 
-**Archived Version with DOI**: [https://doi.org/](https://doi.org/)
+**Archived Version with DOI**: [https://doi.org/10.5281/zenodo.17899269](https://doi.org/10.5281/zenodo.17899269)
