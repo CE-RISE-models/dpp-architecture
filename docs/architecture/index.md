@@ -14,12 +14,12 @@ The CE-RISE DPP architecture is organized into three main groups containing 9 fu
 
 The core layers form the foundation of every Digital Product Passport, providing essential identity and metadata management infrastructure.
 
-### 1. Product Identification
+### A1. Product Identification
 **Model: `product-profile`** (required)  
 Defines the immutable identity, origin, and basic specification of the product. This foundational model is static and always present in every DPP.
 
 
-### 2. DPP Metadata
+### A2. DPP Metadata
 **Models:**  
 
 **`dpp-record-metadata`**  
@@ -38,7 +38,7 @@ Represents the chain of custody and governance history of the DPP record itself.
 
 These layers provide the rich, domain-specific information that creates value for different stakeholders throughout the product lifecycle.
 
-### 1. Dynamic Lifecycle
+### B1. Dynamic Lifecycle
 Captures time-dependent changes and events throughout the product's journey.
 
 **Models:**
@@ -50,13 +50,13 @@ Dynamic traceability and supply-chain events. Includes only **events**, not stat
 **`diagnostic-results`**  
 Structured outputs produced during diagnostic, repair, service, or automated condition-assessment operations. These are **event-bound results**, not static product information.
 
-### 2. Operation & Use
+### B2. Operation & Use
 Describes how a product is used, maintained, and operated throughout its active life.
 
 **Model: `usage-and-maintenance`**
 Captures how a product is operated and maintained, including usage records, maintenance actions, service histories, and legally required or product-specific instructions for use and upkeep.
 
-### 3. Impact Assessment
+### B3. Impact Assessment
 Supports comprehensive environmental, social, and economic impact calculations.
 
 **Models:**
@@ -67,7 +67,7 @@ Represents integrated LCA results, including environmental, social, and economic
 **`product-system`**  
 The underlying product-system data model used to structure activities, flows, and elementary exchanges.
 
-### 4. Circularity & End-of-Life
+### B4. Circularity & End-of-Life
 Defines circularity metrics, design principles, and end-of-life pathways.
 
 **Models:**
@@ -78,7 +78,7 @@ Comprehensive circularity and end-of-life information.
 **`re-indicators-specification`**  
 Specific end-of-life indicators and recovery options.
 
-### 5. Legal, Compliance & Standards
+### B5. Legal, Compliance & Standards
 Ensures regulatory compliance and standards conformity throughout the product lifecycle.
 
 **Models:**
@@ -95,13 +95,13 @@ Specification layer for compliance and normative information needs.
 
 These layers provide reusable components that support data quality and reliability across all other layers.
 
-### 1. Uncertainty
+### C1. Uncertainty
 **Model: `uncertainty-quantification`**  
 Generic structures for representing uncertainty in measurements, assessments, and indicators.
 
 **Used by:** All layers where measurements, predictions, or assessments contain uncertainty
 
-### 2. Data Quality
+### C2. Data Quality
 **Model: `data-quality-framework`**  
 Defines metadata for data quality, provenance, representativeness, completeness, and assessment pedigree.
 
