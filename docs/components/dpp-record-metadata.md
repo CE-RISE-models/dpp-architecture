@@ -1,4 +1,4 @@
-# Product Profile
+# DPP Record Metadata
 
 **Repository**: [https://codeberg.org/CE-RISE-models/dpp-record-metadata](https://codeberg.org/CE-RISE-models/dpp-record-metadata)
 
