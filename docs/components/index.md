@@ -11,25 +11,25 @@ The CE-RISE DPP architecture is organized into three main groups of components, 
 Foundation components that are essential for every Digital Product Passport.
 
 ### Product Identification Layer
-* **[Product Profile](product-profile.md)** - Defines the immutable identity, origin, and basic specification of the product (required)
+I. **[Product Profile](product-profile.md)** - Defines the immutable identity, origin, and basic specification of the product (required)
 
 ### DPP Metadata Layer
 Models providing metadata for DPP record management and governance:
 
-* **[DPP Record Metadata](dpp-record-metadata.md)** - Semantic and structural metadata of the DPP record
+I. **[DPP Record Metadata](dpp-record-metadata.md)** - Semantic and structural metadata of the DPP record
   * Ontology bindings and schema references
   * Data model versions and profiles
   * Supported representation formats
   * Validation schemas
   
-* **[DPP Access and Governance](dpp-access-and-governance.md)** - Operational and access-related metadata
+II. **[DPP Access and Governance](dpp-access-and-governance.md)** - Operational and access-related metadata
   * Access levels and permissions
   * Security settings
   * Data carrier specifications
   * Longevity policies
   * Interoperability configurations
   
-* **[DPP Record Custody](dpp-record-custody.md)** - Chain of custody and governance history
+III. **[DPP Record Custody](dpp-record-custody.md)** - Chain of custody and governance history
   * Custody event tracking
   * Custodian identification
   * Transfer authorizations
@@ -44,29 +44,29 @@ Domain-specific components that provide rich information throughout the product 
 ### Dynamic Lifecycle Layer
 Models capturing time-dependent changes and events:
 
-* **[Traceability and Lifecycle Events](traceability-and-life-cycle-events.md)** - Dynamic traceability and supply-chain events
-* **[Diagnostic Results](diagnostic-results.md)** - Structured outputs from diagnostic, repair, service, or condition-assessment operations
+I. **[Traceability and Lifecycle Events](traceability-and-life-cycle-events.md)** - Dynamic traceability and supply-chain events
+II. **[Diagnostic Results](diagnostic-results.md)** - Structured outputs from diagnostic, repair, service, or condition-assessment operations
 
 ### Operation & Use Layer
-* **[Usage and Maintenance](usage-and-maintenance.md)** - Product usage, service/repair actions, and instructions for operation and upkeep
+I. **[Usage and Maintenance](usage-and-maintenance.md)** - Product usage, service/repair actions, and instructions for operation and upkeep
 
 ### Impact Assessment Layer
 Models for comprehensive impact calculations:
 
-* **Integrated LCA** *(planned)* - Environmental, social, and economic life cycle assessment data
-* **Product System** *(planned)* - Underlying data model for structuring activities, flows, and elementary exchanges
+I. **[Integrated LCA](integrated-lca.md)** - Environmental, social, and economic life cycle assessment data
+II. **Product System** *(planned)* - Underlying data model for structuring activities, flows, and elementary exchanges
 
 ### Circularity & End-of-Life Layer
 Circularity metrics and end-of-life pathways:
 
-* **Circularity and EoL** *(planned)* - Design for circularity, performance scores, and end-of-life information
-* **[RE Indicators Specification](re-indicators-specification.md)** *(under development)* - Specific end-of-life indicators and recovery options
+I. **Circularity and EoL** *(planned)* - Design for circularity, performance scores, and end-of-life information
+II. **[RE Indicators Specification](re-indicators-specification.md)** *(under development)* - Specific end-of-life indicators and recovery options
 
 ### Legal, Compliance & Standards Layer
 Regulatory and standards conformity:
 
-* **Compliance and Standards** *(planned)* - Regulatory compliance, certifications, and evidence documentation
-* **Conformity Requirements Specification** *(planned)* - Standard-specific data requirements and procedures
+I. **Compliance and Standards** *(planned)* - Regulatory compliance, certifications, and evidence documentation
+II. **Conformity Requirements Specification** *(planned)* - Standard-specific data requirements and procedures
 
 ---
 
@@ -75,10 +75,10 @@ Regulatory and standards conformity:
 Reusable components that support data quality and reliability across all other layers.
 
 ### Uncertainty Layer
-* **Uncertainty Quantification** *(planned)* - Generic structures for representing uncertainty in measurements, assessments, and indicators
+I. **Uncertainty Quantification** *(planned)* - Generic structures for representing uncertainty in measurements, assessments, and indicators
 
 ### Data Quality Layer
-* **Data Quality Framework** *(planned)* - Metadata for data quality, provenance, representativeness, completeness, and assessment pedigree
+I. **Data Quality Framework** *(planned)* - Metadata for data quality, provenance, representativeness, completeness, and assessment pedigree
 
 ---
 
