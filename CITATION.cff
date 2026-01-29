@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: CE-RISE Digital Product and Material Passport (DPP & DMP) data-model architecture
 message: >-
-  2025.11 - Initial draft of models architecture and dev roadmap.
+  2026.01 - DMP extension.
 type: software
 doi: 10.5281/zenodo.17776989
 authors:
