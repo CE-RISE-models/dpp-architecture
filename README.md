@@ -22,7 +22,7 @@ This repository serves as:
 
 1. Clone the repository:
    ```bash
-   git clone https://codeberg.org/ce-rise-models/dpp-architecture.git
+   git clone https://codeberg.org/ce-rise-models/dp-architecture.git
    cd dpp-architecture
    ```
 
