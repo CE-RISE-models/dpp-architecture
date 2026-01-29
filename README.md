@@ -1,6 +1,6 @@
 # CE-RISE DPP & DMP Architecture Documentation
 
-This repository contains the source files for the CE-RISE Digital Product and Material Passport (DPP & DMP) data model architecture documentation website, published at: [https://ce-rise-models.codeberg.page/dpp-architecture/](https://ce-rise-models.codeberg.page/dpp-architecture/)
+This repository contains the source files for the CE-RISE Digital Product and Material Passport (DPP & DMP) data model architecture documentation website, published at: [https://ce-rise-models.codeberg.page/dp-architecture/](https://ce-rise-models.codeberg.page/dp-architecture/)
 
 The documentation website explains the approach to data modeling developed and adopted in the CE-RISE project for Digital Product and Material Passports. **For the actual documentation content, please visit the published website.**
 
