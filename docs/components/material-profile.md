@@ -1,10 +1,8 @@
 # Material Profile
 **Scope**: DMP
 
-**Status**: Planned
+**Repository**: [https://codeberg.org/CE-RISE-models/material-profile](https://codeberg.org/CE-RISE-models/material-profile)
 
-**Repository**: TBA
+**Generated Schemas**: [https://ce-rise-models.codeberg.page/material-profile/](https://ce-rise-models.codeberg.page/material-profile/)
 
-**Generated Schemas**: TBA
-
-**Archived Version with DOI**: TBA
+**Archived Version with DOI**: [to_be_obtained](to_be_obtained)
