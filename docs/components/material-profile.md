@@ -5,4 +5,4 @@
 
 **Generated Schemas**: [https://ce-rise-models.codeberg.page/material-profile/](https://ce-rise-models.codeberg.page/material-profile/)
 
-**Archived Version with DOI**: [to_be_obtained](to_be_obtained)
+**Archived Version with DOI**: [https://doi.org/10.5281/zenodo.18432618](https://doi.org/10.5281/zenodo.18432618)
