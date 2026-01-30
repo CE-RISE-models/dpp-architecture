@@ -1,8 +1,8 @@
 site_name: CE-RISE DPP & DMP Data Model Architecture
 site_description: Documentation of the overall CE-RISE Digital Product and Material Passport (DPP & DMP) data-model architecture
-site_url: https://ce-rise-models.codeberg.page/dpp-architecture/
-repo_url: https://codeberg.org/ce-rise-models/dpp-architecture
-repo_name: ce-rise-models/dpp-architecture
+site_url: https://ce-rise-models.codeberg.page/dp-architecture/
+repo_url: https://codeberg.org/ce-rise-models/dp-architecture
+repo_name: ce-rise-models/dp-architecture
 
 theme:
     name: material
@@ -45,6 +45,7 @@ nav:
           - Profiles: architecture/profiles.md
     - Components:
           - Overview: components/index.md
+          - Material Profile: components/material-profile.md
           - Product Profile: components/product-profile.md
           - DP Record Metadata: components/dp-record-metadata.md
           - DP Access and Governance: components/dp-access-and-governance.md

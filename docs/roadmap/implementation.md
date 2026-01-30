@@ -9,7 +9,7 @@ The following table shows the current development status of all planned models i
 | Layer | Model | Status | Repository | Notes |
 |-------|-------|--------|------------|-------|
 | **Product Identification** |
-| | `product-profile` | Completed | [Product Profile](../components/product-profile.md) | Required foundation model |
+| | `product-profile` | Completed | [Product Profile](../components/product-profile.md) | Required foundation model for product passports |
 | **Material Identification** |
 | | `material-profile` | Planned | [Material Profile](../components/material-profile.md) | Required foundation model for material passports |
 | **DPP & DMP Metadata** |
